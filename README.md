@@ -1,6 +1,6 @@
 # B-Tree-Implementation-for-database-management
-A B+ tree implementation in C++ for performing CRUD operations on a sample student database.
-Requirements: C++ compiler (ex. g++)
+A B+ tree implementation in C for performing CRUD operations on a sample student database.
+Requirements: compiler (ex. g++)
 
 The operations include:
 * Inserting records
